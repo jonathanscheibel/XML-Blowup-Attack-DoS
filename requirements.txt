@@ -8,7 +8,7 @@ more-itertools==7.2.0
 Naked==0.1.31
 packaging==19.2
 pluggy==0.13.0
-py==1.8.0
+py==1.10.0
 pyparsing==2.4.5
 pytest==5.3.0
 PyYAML==5.1.2
