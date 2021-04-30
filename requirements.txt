@@ -15,6 +15,6 @@ PyYAML==5.1.2
 requests==2.22.0
 shellescape==3.4.1
 six==1.13.0
-urllib3==1.25.7
+urllib3==1.25.8
 wcwidth==0.1.7
 zipp==0.6.0
